@@ -1,11 +1,9 @@
 # WebConfetti
-----
 A Xojo Library to fire confetti in your Xojo Web Apps. It's based on the [Confetti.js](https://confetti.js.org) MIT library, all kudos to them.
 
 https://github.com/user-attachments/assets/b6cd1cd2-1022-4598-9498-2eb733a23e32
 
 ## How to use
-----
 Drop a WebConfetti instance in one of your web view, then call its Fire method.
 
 ## Properties
